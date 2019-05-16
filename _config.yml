@@ -100,7 +100,10 @@ friends: [
         title: "C.C.I., UConn Health Center",
         href: "https://health.uconn.edu/connecticut-convergence-institute/"
     },{
-        title: "Yishu, a UConn-made Ph.D.",
+        title: "Yiyun (evian), is a not a bottle of water",
+        href: "https://github.com/EvianTan"
+    },{
+        title: "Yishu, is a UConn-made Ph.D.",
         href: "https://ys-xue.github.io/"
     }
 ]
