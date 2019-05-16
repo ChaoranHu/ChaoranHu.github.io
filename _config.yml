@@ -99,5 +99,8 @@ friends: [
     },{
         title: "C.C.I., UConn Health Center",
         href: "https://health.uconn.edu/connecticut-convergence-institute/"
+    },{
+        title: "Yishu, a UConn-made Ph.D.",
+        href: "https://ys-xue.github.io/"
     }
 ]
