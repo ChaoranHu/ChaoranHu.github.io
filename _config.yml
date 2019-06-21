@@ -94,6 +94,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "Office of Biostatistics, CDER, FDA",
+        href: "https://www.fda.gov/about-fda/center-drug-evaluation-and-research/cder-office-biostatistics"
+    },{
         title: "Department of Statistics, UConn",
         href: "https://stat.uconn.edu/"
     },{
