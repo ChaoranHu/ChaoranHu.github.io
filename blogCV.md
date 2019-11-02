@@ -14,9 +14,9 @@
 * Evaluation of Convolution of independent Gamma Variables
 
 ## Publication
-* \textbf{Hu, C.}, Pozdnyakov, V., and Yan, J. (2019). ``Density and Distribution Evaluation for Convolution of Independent Gamma Variables.'' \textit{Computational Statistics}. (doi:10.1007/s00180-019-00924-9)
+* **Hu, C.**, Pozdnyakov, V., and Yan, J. (2019). ``Density and Distribution Evaluation for Convolution of Independent Gamma Variables.'' \textit{Computational Statistics}. (doi:10.1007/s00180-019-00924-9)
     
-* Bartels, C., Grady, J., \textbf{Hu, C.}, and Daniel, G.R. (2019). ``Protocol Matters: a Propensity Group Analysis shows that Progesterone Elevations on Day of Trigger during Fresh IVF-ET Affect Live Birth Rates Differently according to Stimulation Protocol.'' \textit{Fertility and Sterility}, 112(3), e59. (doi:10.1016/j.fertnstert.2019.07.277)
+* Bartels, C., Grady, J., **Hu, C.**, and Daniel, G.R. (2019). ``Protocol Matters: a Propensity Group Analysis shows that Progesterone Elevations on Day of Trigger during Fresh IVF-ET Affect Live Birth Rates Differently according to Stimulation Protocol.'' \textit{Fertility and Sterility}, 112(3), e59. (doi:10.1016/j.fertnstert.2019.07.277)
 
-* Rath, A., Mishra, A., Ferreira, V.D., \textbf{Hu, C.}, Omerza, G., Kelly, K., Hesse, A., Reddi, H., Grady, J.P., and Heinen, C.D. (2019). ``Functional Interrogation of Lynch Syndrome Associated MSH2 Missense Variants via CRISPR-Cas9 Gene Editing in Human Embryonic Stem Cells.'' \textit{Human Mutation}. (doi:10.1002/humu.23848)
+* Rath, A., Mishra, A., Ferreira, V.D., **Hu, C.**, Omerza, G., Kelly, K., Hesse, A., Reddi, H., Grady, J.P., and Heinen, C.D. (2019). ``Functional Interrogation of Lynch Syndrome Associated MSH2 Missense Variants via CRISPR-Cas9 Gene Editing in Human Embryonic Stem Cells.'' \textit{Human Mutation}. (doi:10.1002/humu.23848)
 
