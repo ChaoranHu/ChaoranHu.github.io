@@ -6,7 +6,7 @@ title: Curriculum Vitae
 ## Education
 * Ph.D. Candidate in Statistics, University of Connecticut, 2017.01-Present
 * Master of Science in Statistics, University of Connecticut, 2015.08-2017.01
-* Bachelor of Science in Mathematics, Huazhong University of Science \& Technology, 2011.09-2015.06
+* Bachelor of Science in Mathematics, Huazhong University of Science & Technology, 2011.09-2015.06
 
 ## Experience
 * Summer Biostatistical Research Fellowship, F.D.A., 2019.05-2019.08
