@@ -1,3 +1,8 @@
+---
+title: Curriculum Vitae
+---
+
+
 ## Education
 * Ph.D. Candidate in Statistics, University of Connecticut, 2017.01-Present
 * Master of Science in Statistics, University of Connecticut, 2015.08-2017.01
