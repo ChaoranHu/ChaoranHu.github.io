@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How do we understand estimate and confidence interval?
+subtitle: Chaoran Hu
 date: 2019-11-05
 author: Chaoran Hu
 header-img: img/post-bg-desk.jpg
