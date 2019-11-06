@@ -10,4 +10,4 @@ tags:
   - statistics
 ---
 
-{% include_relative _posts/understandingEstimateandConfidenceInterval.html%}
+{% include_relative understandingEstimateandConfidenceInterval.html%}
