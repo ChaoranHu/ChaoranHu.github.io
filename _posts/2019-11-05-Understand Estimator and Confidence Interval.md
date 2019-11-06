@@ -1,3 +1,15 @@
+---
+layout: post
+title: How do we understand estimate and confidence interval?
+subtitle: Chaoran Hu
+date: 2019-11-05
+author: Chaoran Hu
+header-img: img/post-bg-rain.jpeg
+catalog: true
+tags:
+  - statistics
+---
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
