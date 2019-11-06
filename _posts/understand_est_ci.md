@@ -1,3 +1,14 @@
+---
+layout: post
+title: How do we understand estimate and confidence interval?
+date: 2019-11-05
+author: Chaoran Hu
+header-img: img/post-bg-desk.jpg
+catalog: true
+tags:
+  - statistics
+---
+
 As we have mentioned many times in class, both estimate and confidence
 interval are random variables. The explanation can be quite simple. Both
 estimate and confidence interval are the functions of random sample,
