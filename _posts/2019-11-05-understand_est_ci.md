@@ -47,7 +47,7 @@ theoratical).
          sub = "red line is the theoratical density curve of N(5, 2)")
     lines(seq(0, 10, length.out = 100), dnorm(seq(0, 10, length.out = 100), 5, sqrt(2)), col = "red")
 
-![](/understand_est_ci_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![](../understand_est_ci_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 Recall that, the popular estimator of population mean, *μ* is sample
 mean, $\\bar{X} = 1/n\\sum\_{i=1}^n X\_i$. Now, let us calulate the
@@ -155,7 +155,7 @@ average vs *m* and you will find it is the case.
     plot(1:1000, aveEst, type = "l", xlab = "m", ylab = "average of first m estimators")
     abline(h = 5, col = "red")
 
-![](/understand_est_ci_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](../understand_est_ci_files/figure-markdown_strict/unnamed-chunk-7-1.png)
 
 Understanding the confidence level in confidence interval
 ---------------------------------------------------------
