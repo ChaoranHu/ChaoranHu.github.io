@@ -1,9 +1,9 @@
 # Site settings
 title: Chaoran's space
 SEOTitle: Chaoran's blog
-header-img: img/nietzsche2.jpg
+header-img: img/post-bg-coffee.jpeg
 email: huchaoran.stat@gmail.com
-description: "All judgements are, in their rationale, statistics."
+description: "We should consider every day lost on which we have not danced at least once."
 keyword: "Chaoran, Hu, Statistics"
 url: "http://ChaoranHu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
