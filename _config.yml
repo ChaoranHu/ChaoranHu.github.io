@@ -51,18 +51,18 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+Disqus（https://disqus.com/）
+disqus_username: chaoranhu
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 4c03cbeaf455a1a53f05                            #生成的clientID
-  clientSecret: 1bae4e2f5efacc7500d50ac4cb5fec3bd14a8140    #生成的clientSecret
-  repo: ChaoranHu.github.io    #仓库名称
-  owner: ChaoranHu     #github用户名
-  admin: ChaoranHu
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+# gitalk:
+#   enable: true    #是否开启Gitalk评论
+#   clientID: 4c03cbeaf455a1a53f05                            #生成的clientID
+#   clientSecret: 1bae4e2f5efacc7500d50ac4cb5fec3bd14a8140    #生成的clientSecret
+#   repo: ChaoranHu.github.io    #仓库名称
+#   owner: ChaoranHu     #github用户名
+#   admin: ChaoranHu
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
