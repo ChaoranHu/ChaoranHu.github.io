@@ -14,6 +14,11 @@ title: Curriculum Vitae
 * Biostatistical Consultant, Connecticut Convergence Institute, UConn Health Center, 2018.01-Present
 * Research Assistant, Travelers Insurance Company, 2017.05-2018.05
 
+## Honor and Award
+* ASA Statistical Computing/Graphics Student Paper Award, *American Statistical Association*. 2020
+* ASA Environment Student Paper Award (Honorable Mention), *American Statistical Association*. 2020 (Declined)
+* Excellent in Probability, *University of Connecticut*. 2019
+
 ## Research
 * Brownian Motion governed by Telegraph Processes
 * Evaluation of Convolution of independent Gamma Variables
