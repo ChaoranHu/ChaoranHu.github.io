@@ -31,6 +31,6 @@ title: Curriculum Vitae
 * Rath, A., Mishra, A., Ferreira, V.D., **Hu, C.**, Omerza, G., Kelly, K., Hesse, A., Reddi, H., Grady, J.P., and Heinen, C.D. (2019). ''Functional Interrogation of Lynch Syndrome Associated MSH2 Missense Variants via CRISPR-Cas9 Gene Editing in Human Embryonic Stem Cells.'' *Human Mutation*, 40:2044-2056. (doi:10.1002/humu.23848)
 
 ## Softwares
-* `coga`: Convolution of Gamma Distributions. R package, on [CRAN](https://CRAN.R-project.org/package=coga) and [GitHub](https://github.com/ChaoranHu/coga).
-* `smam`: Statistical Modeling of Animal Movements. R package, on [CRAN](https://CRAN.R-project.org/package=smam) and [GitHub](https://github.com/ChaoranHu/smam).
+* `coga`: Convolution of Gamma Distributions. R package, on [**CRAN**](https://CRAN.R-project.org/package=coga) and [**GitHub**](https://github.com/ChaoranHu/coga).
+* `smam`: Statistical Modeling of Animal Movements. R package, on [**CRAN**](https://CRAN.R-project.org/package=smam) and [**GitHub**](https://github.com/ChaoranHu/smam).
 
