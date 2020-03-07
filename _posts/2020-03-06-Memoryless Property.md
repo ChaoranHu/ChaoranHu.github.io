@@ -9,7 +9,7 @@ tags:
   - statistics
 ---
 
-* $\cdot$ This article is prepared for students in UConn-STAT3025Q.*
+*(This article is prepared for students in UConn-STAT3025Q.)*
 
 
 {% include_relative memoryless.html%}
