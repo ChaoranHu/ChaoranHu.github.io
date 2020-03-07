@@ -9,8 +9,8 @@ tags:
   - statistics
 ---
 
-*This article is prepared for students in UConn-STAT3025Q.*
+*(This article is prepared for students in UConn-STAT3025Q.)*
 
-*R code is also provided for your reference, but you do not have to understand them.*
+*(R code is also provided for your reference, but you do not have to understand them.)*
 
 {% include_relative poissonprocess.html%}
