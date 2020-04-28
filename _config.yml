@@ -12,7 +12,7 @@ github_repo: "https://github.com/ChaoranHu/ChaoranHu.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "We should consider every day lost on which we have not danced at least once."
-sidebar-avatar: /img/chaoran.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /photo/chaoran2.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
