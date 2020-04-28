@@ -92,7 +92,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+relations: [
     {
         title: "Office of Biostatistics, CDER, FDA",
         href: "https://www.fda.gov/about-fda/center-drug-evaluation-and-research/cder-office-biostatistics"
