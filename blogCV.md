@@ -5,16 +5,16 @@ title: Curriculum Vitae
 *Please contact me for my detailed CV.*
 
 ## Education
-* Ph.D. in Statistics, University of Connecticut, 2017.01-2020.05
+* Ph.D. in Statistics, **University of Connecticut**, 2017.01-2020.05
   * Dissertation: On Brownian Motion governed by Telegraph Process [(<ins>Defense Slides</ins>)](dissertation_slides.pdf)
-* Master of Science in Statistics, University of Connecticut, 2015.08-2017.01
-* Bachelor of Science in Mathematics, Huazhong University of Science & Technology, 2011.09-2015.06
+* Master of Science in Statistics, **University of Connecticut**, 2015.08-2017.01
+* Bachelor of Science in Mathematics, **Huazhong University of Science & Technology**, 2011.09-2015.06
 
 ## Experience
-* Summer Biostatistical Research Fellowship, F.D.A., 2019.05-2019.08
-* Course Instructor, University of Connecticut, 2018.08-Present
-* Biostatistical Consultant, Connecticut Convergence Institute, UConn Health Center, 2018.01-Present
-* Research Assistant, Travelers Insurance Company, 2017.05-2018.05
+* Summer Biostatistical Research Fellowship, **F.D.A.**, 2019.05-2019.08
+* Course Instructor, **University of Connecticut**, 2018.08-Present
+* Biostatistical Consultant, Connecticut Convergence Institute, **UConn Health Center**, 2018.01-Present
+* Research Assistant, **Travelers Insurance Company**, 2017.05-2018.05
 
 ## Honors and Awards
 * ASA Statistical Computing/Graphics Student Paper Award, *American Statistical Association*. 2020
