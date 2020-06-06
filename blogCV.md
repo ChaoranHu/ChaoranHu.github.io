@@ -5,9 +5,8 @@ title: Curriculum Vitae
 *Please contact me for my detailed CV.*
 
 ## Education
-* Ph.D. in Statistics, **University of Connecticut**, 2017.01-2020.05
+* Ph.D. in Statistics, **University of Connecticut**, 2015.08-2020.05
   * Dissertation: On Brownian Motion governed by Telegraph Process [(<ins>Defense Slides</ins>)](dissertation_slides.pdf)
-* Master of Science in Statistics, **University of Connecticut**, 2015.08-2017.01
 * Bachelor of Science in Mathematics, **Huazhong University of Science & Technology**, 2011.09-2015.06
 
 ## Experience
@@ -21,11 +20,9 @@ title: Curriculum Vitae
 * ASA Environment Student Paper Award (Honorable Mention), *American Statistical Association*. 2020 (Declined)
 * Excellent in Probability, *University of Connecticut*. 2019
 
-## Research
-* Brownian Motion governed by Telegraph Processes
-* Evaluation of Convolution of independent Gamma Variables
-
 ## Publications
+* Devarakonda, C., Shearier, E., **Hu, C.**, Grady, J., Balsbaugh, J., Makari, J., Ferrer, F., and Shapiro, L. (2020). ''A novel urinary biomarker protein panel to identify children with ureteropelvic junction obstruction A pilot study.'' *Journal of Pediatric Urology*. (Accept)
+* DeBevits, J., Munbodh, R., Bageac, D., Wu, R., DiCamillo, P., **Hu, C.**, Wang, L., Naismith, R.T., Karimeddini, D., Dhid-Jalbut, S., Redko, S., Cook, S., Cadavid, D., and Wolansky, L. (2020). ''Gray Matter Nucleus Hyperintensity After Monthly Triple-dose Gadopentetate Dimeglumine with Long-term Follow-up MR Imaging.'' *Investigative Radiology*. (Accept)
 * Pozdnyakov, V., Elbroch, L.M., **Hu, C.**, Meyer, T., and Yan, J. (2020). ''On estimation for Brownian motion governed by telegraph process with multiple off states.'' *Methodology and Computing in Applied Probability*. (doi:10.1007/s11009-020-09774-1)
 * **Hu, C.**, Pozdnyakov, V., and Yan, J. (2020). ''Density and Distribution Evaluation for Convolution of Independent Gamma Variables.'' *Computational Statistics*, 35:327. (doi:10.1007/s00180-019-00924-9)
 * Bartels, C., Grady, J., **Hu, C.**, and Daniel, G.R. (2019). ''Protocol Matters: a Propensity Group Analysis shows that Progesterone Elevations on Day of Trigger during Fresh IVF-ET Affect Live Birth Rates Differently according to Stimulation Protocol.'' *Fertility and Sterility*, 112(3), e59. (doi:10.1016/j.fertnstert.2019.07.277)
