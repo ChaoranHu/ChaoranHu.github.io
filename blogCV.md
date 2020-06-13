@@ -10,9 +10,10 @@ title: Curriculum Vitae
 * Bachelor of Science in Mathematics, **Huazhong University of Science & Technology**, 2011.09-2015.06
 
 ## Experience
+* Research Scientist - Statistics, **Eli Lilly and Company**, 2020.06-Present
 * Summer Biostatistical Research Fellowship, **F.D.A.**, 2019.05-2019.08
-* Course Instructor, **University of Connecticut**, 2018.08-Present
-* Biostatistical Consultant, Connecticut Convergence Institute, **UConn Health Center**, 2018.01-Present
+* Course Instructor, **University of Connecticut**, 2018.08-2020.05
+* Biostatistical Consultant, Connecticut Convergence Institute, **UConn Health Center**, 2018.01-2020.05
 * Research Assistant, **Travelers Insurance Company**, 2017.05-2018.05
 
 ## Honors and Awards
