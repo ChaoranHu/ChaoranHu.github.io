@@ -95,6 +95,9 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "Eli Lilly and Company",
+        href: "https://www.lilly.com/"
+    },{
         title: "Office of Biostatistics, CDER, FDA",
         href: "https://www.fda.gov/about-fda/center-drug-evaluation-and-research/cder-office-biostatistics"
     },{
