@@ -6,7 +6,7 @@ title: Curriculum Vitae
 
 ## Education
 * Ph.D. in Statistics, **University of Connecticut**, 2015.08-2020.05
-  * Dissertation: On Brownian Motion governed by Telegraph Process [(<ins>Defense Slides</ins>)](dissertation_slides.pdf)
+  * Dissertation: On Brownian Motion governed by Telegraph Process [<ins>Dissertation</ins>](https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=8728&context=dissertations), [<ins>Defense Slides</ins>](dissertation_slides.pdf)
 * Bachelor of Science in Mathematics, **Huazhong University of Science & Technology**, 2011.09-2015.06
 
 ## Experience
