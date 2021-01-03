@@ -109,5 +109,8 @@ friends: [
     },{
         title: "Panthera, the global wild cat conservation organization",
         href: "https://www.panthera.org/"
+    },{
+        title: "School of Mathematics and Statistics, HUST",
+        href: "http://maths.hust.edu.cn/"
     }
 ]
