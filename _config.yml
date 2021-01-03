@@ -101,14 +101,14 @@ friends: [
         title: "Office of Biostatistics, CDER, FDA",
         href: "https://www.fda.gov/about-fda/center-drug-evaluation-and-research/cder-office-biostatistics"
     },{
-        title: "Department of Statistics, UConn",
-        href: "https://stat.uconn.edu/"
-    },{
         title: "C.C.I., UConn Health Center",
         href: "https://health.uconn.edu/connecticut-convergence-institute/"
     },{
         title: "Panthera, the global wild cat conservation organization",
         href: "https://www.panthera.org/"
+    },{
+        title: "Department of Statistics, UConn",
+        href: "https://stat.uconn.edu/"
     },{
         title: "School of Mathematics and Statistics, HUST",
         href: "http://maths.hust.edu.cn/"
