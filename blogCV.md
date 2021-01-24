@@ -35,4 +35,5 @@ title: Curriculum Vitae
 ## Softwares
 * `coga`: Convolution of Gamma Distributions. R package, on [<ins>CRAN</ins>](https://CRAN.R-project.org/package=coga) and [<ins>GitHub</ins>](https://github.com/ChaoranHu/coga).
 * `smam`: Statistical Modeling of Animal Movements. R package, on [<ins>CRAN</ins>](https://CRAN.R-project.org/package=smam) and [<ins>GitHub</ins>](https://github.com/ChaoranHu/smam).
+* `niaidMI`: Imputes the NIAID OS scale using a Markov model. R package, on [<ins>GitHub</ins>](https://github.com/huchaoran-lilly/niaidMI).
 
